@@ -1,16 +1,28 @@
-<h1 align="center">Hi there, I'm Montasir 👋</h1>
-<h3 align="center">AI Engineer | Model Whisperer | Deployment Ninja</h3>
+<h1 align="center">Hello, World! This is Montasir 👋</h1>
+<h3 align="center">AI Engineer | ML Enthusiast | Data Mining Researcher</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/montasir-ai/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-montasir-rahman/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:montasir@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Montasir-Rahman">
     <img src="https://img.shields.io/github/followers/Montasir-Rahman?label=Follow&style=social" />
   </a>
+  <a href="mailto:montasirrahmanhridoy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=Q9g173EAAAAJ" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4.svg?&style=flat&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/author/611344315864521" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/IEEE_Xplore-00629B.svg?&style=flat&logo=ieee&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0002-0421-8835" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=flat&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Md-Rahman-1907" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=flat&logo=researchgate&logoColor=white" />
+  </a> 
 </p>
 
 ---
