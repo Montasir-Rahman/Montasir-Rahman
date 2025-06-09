@@ -68,11 +68,6 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Montasir-Rahman&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montasir-Rahman&layout=compact&theme=tokyonight" />
-</p>
-
 <div align="center">
 
 <!-- GitHub Stats Card -->
