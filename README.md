@@ -55,14 +55,14 @@
 
 ### 📌 Featured Projects
 
-#### 🧠 [IntelliBot: Custom ChatGPT Interface](https://github.com/Montasir-Rahman/intellibot)
-> A fast, locally hosted conversational AI interface using GPT models with RAG and vector search.
+#### 🧠 [Dominant Tree (D-Tree) Algorithm](https://github.com/Montasir-Rahman/D-Tree-Algorithm)
+> A Novel Approach of Association Rule Mining, Prioritizing both Performance and Rule Quality.
 
-#### 📊 [ML Metrics Dashboard](https://github.com/Montasir-Rahman/ml-dashboard)
-> Interactive dashboard to track model training, visualize loss/accuracy curves, and compare multiple runs.
+#### 📊 [Stock Price Prediction](https://github.com/Montasir-Rahman/Stock-Price-Prediction)
+> Stock Price Prediction Employing ML Models Using Historical Data.
 
-#### 🚀 [Model Deployment Kit](https://github.com/Montasir-Rahman/deploy-kit)
-> Pre-built templates for deploying AI models with Docker, FastAPI, and GitHub Actions.
+#### 🚀 [GUCCMS](https://github.com/Montasir-Rahman/GUCCMS)
+> Database Project with GUI to Apply Multiple Queries.
 
 ---
 
@@ -72,6 +72,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Montasir-Rahman&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montasir-Rahman&layout=compact&theme=tokyonight" />
 </p>
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Montasir-Rahman&show_icons=true&theme=radical&rank_icon=github&hide_rank=false&include_all_commits=true&custom_title=🔥%20Montasir's%20GitHub%20Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montasir-Rahman&layout=compact&theme=radical&langs_count=10&hide=css,html" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Montasir-Rahman&theme=radical" />
+
+<!-- Trophies (Shiny!) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Montasir-Rahman&theme=radical&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" />
+
+</div>
 
 ---
 
