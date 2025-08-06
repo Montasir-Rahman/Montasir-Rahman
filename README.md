@@ -1,88 +1,26 @@
-<h1 align="center">Hello, World! This is Montasir 👋</h1>
-<h3 align="center">AI Engineer | ML Enthusiast | Data Mining Researcher</h3>
+# 💫 About Me:
+Hi, I am Montasir. I am an aspiring Data Analyst with Data Mining research experience. I am passionate about turning raw data into impactful insights to facilitate data-driven decision making. My goal is to solve real-world problems with the power of Data & AI. 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-montasir-rahman/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Montasir-Rahman">
-    <img src="https://img.shields.io/github/followers/Montasir-Rahman?label=Follow&style=social" />
-  </a>
-  <a href="mailto:montasirrahmanhridoy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=Q9g173EAAAAJ" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google_Scholar-4285F4.svg?&style=flat&logo=google-scholar&logoColor=white" />
-  </a>
-  <a href="https://ieeexplore.ieee.org/author/611344315864521" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/IEEE_Xplore-00629B.svg?&style=flat&logo=ieee&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0009-0002-0421-8835" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=flat&logo=orcid&logoColor=white" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Md-Rahman-1907" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=flat&logo=researchgate&logoColor=white" />
-  </a> 
-</p>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadmontasirrahman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-montasir-rahman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:montasirrahmanhridoy@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Montasir-Rahman&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Montasir-Rahman&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Montasir-Rahman&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Montasir-Rahman&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Montasir-Rahman&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 🧠 About Me
-
-- 
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Tools & Platforms:**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-#### 🧠 [Dominant Tree (D-Tree) Algorithm](https://github.com/Montasir-Rahman/D-Tree-Algorithm)
-> A Novel Approach of Association Rule Mining, Prioritizing both Performance and Rule Quality.
-
-#### 📊 [Stock Price Prediction](https://github.com/Montasir-Rahman/Stock-Price-Prediction)
-> Stock Price Prediction Employing ML Models Using Historical Data.
-
-#### 🚀 [GUCCMS](https://github.com/Montasir-Rahman/GUCCMS)
-> Database Project with GUI to Apply Multiple Queries.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Montasir-Rahman&show_icons=true&theme=radical&rank_icon=github&hide_rank=false&include_all_commits=true&custom_title=🔥%20Montasir's%20GitHub%20Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montasir-Rahman&layout=compact&theme=radical&langs_count=10&hide=css,html" />
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Montasir-Rahman&theme=radical" />
-
-<!-- Trophies (Shiny!) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Montasir-Rahman&theme=radical&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" />
-
-</div>
-
----
-
-### ⚡ Fun Fact
-
-I automate things *just to save 15 seconds*, then spend 2 hours making it look cool. Efficiency meets obsession 😎
-
----
-
-> “Code is poetry. AI is the next verse.” — Me, probably.
+[![](https://visitcount.itsvg.in/api?id=Montasir-Rahman&icon=5&color=0)](https://visitcount.itsvg.in)
 
