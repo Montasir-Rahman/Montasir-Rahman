@@ -18,9 +18,6 @@ Hi, I am Montasir. I am an aspiring Data Analyst with Data Mining research exper
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Montasir-Rahman&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Montasir-Rahman&icon=5&color=0)](https://visitcount.itsvg.in)
 
